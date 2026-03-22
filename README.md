@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm learning to code!
+
+I just started my journey on GitHub and I'm excited to build my skills. 
+
+- 🎓 I’m currently a student.
+- 🌱 I’m currently learning the basics of programming.
+- 💻 My goal is to become a good developer and contribute to projects.
+- 📫 How to reach me: Drop an email at [Yahan_Apni_Email_Daal_Dena]
+
+⚡ **Fun fact:** I am just getting started with the GitHub Student Developer Pack!
+
 
 <!--
 **melton590/melton590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
